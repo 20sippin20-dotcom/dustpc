@@ -150,18 +150,18 @@ export default function Pricing() {
                   key={row.label}
                   className="grid grid-cols-[1.1fr_1fr_1fr] gap-2 items-center"
                 >
-                  <div className="rounded-2xl border border-white/20 px-3 md:px-4 py-3 min-h-[58px] flex items-center">
+                  <div className="rounded-2xl border border-white/20 px-3 md:px-4 py-3 min-h-[58px] md:min-h-[72px] flex items-center">
                     <span className="font-body text-[11px] md:text-base text-[#F5F0EC] uppercase leading-tight">
                       {row.label}
                     </span>
                   </div>
-                  <div className="px-2 py-3 text-center">
-                    <span className="font-display text-2xl md:text-5xl leading-none text-[#F5F0EC]">
+                  <div className="px-2 py-3 min-h-[58px] md:min-h-[72px] flex items-center justify-center text-center">
+                    <span className="font-body font-extrabold tabular-nums whitespace-nowrap text-[24px] md:text-[42px] leading-none text-[#F5F0EC]">
                       {row.col1}
                     </span>
                   </div>
-                  <div className="px-2 py-3 text-center">
-                    <span className="font-display text-2xl md:text-5xl leading-none text-[#F5F0EC]">
+                  <div className="px-2 py-3 min-h-[58px] md:min-h-[72px] flex items-center justify-center text-center">
+                    <span className="font-body font-extrabold tabular-nums whitespace-nowrap text-[24px] md:text-[42px] leading-none text-[#F5F0EC]">
                       {row.col2}
                     </span>
                   </div>

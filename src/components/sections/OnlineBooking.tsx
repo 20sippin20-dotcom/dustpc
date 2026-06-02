@@ -69,7 +69,7 @@ export default function OnlineBooking() {
         <p className="font-body text-xs tracking-[0.3em] text-[#FF2B2B] uppercase mb-4">
           — ONLINE / LANGAME
         </p>
-        <h2 className="font-display text-[16vw] sm:text-[12vw] md:text-[9vw] leading-[0.92] text-[#F5F0EC] uppercase break-words">
+        <h2 className="font-display text-[11.2vw] sm:text-[11vw] md:text-[9vw] leading-[0.92] text-[#F5F0EC] uppercase whitespace-nowrap">
           ОНЛАЙН
           <br />
           БРОНИРОВАНИЕ

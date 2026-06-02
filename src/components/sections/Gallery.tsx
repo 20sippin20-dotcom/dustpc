@@ -115,7 +115,7 @@ export default function Gallery() {
           — 03 / ПРОСТРАНСТВО
         </p>
         <div className="flex items-end justify-between flex-wrap gap-6">
-          <h2 className="font-display text-[16vw] sm:text-[12vw] md:text-[9vw] leading-[0.92] text-[#F5F0EC] uppercase break-words">
+          <h2 className="font-display text-[11.2vw] sm:text-[11vw] md:text-[9vw] leading-[0.92] text-[#F5F0EC] uppercase whitespace-nowrap">
             НАШЕ
             <br />
             ПРОСТРАНСТВО
