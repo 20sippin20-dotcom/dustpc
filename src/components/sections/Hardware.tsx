@@ -163,7 +163,7 @@ export default function Hardware() {
                     {labels.map((left, index) => (
                       <div
                         key={left}
-                        className={`rounded-xl px-2.5 md:px-3 py-2 min-h-[34px] md:min-h-[46px] flex items-center font-body font-bold text-[11px] sm:text-[13px] md:text-xl leading-none text-[#F5F0EC] uppercase ${
+                      className={`rounded-xl px-2.5 md:px-3 py-2 min-h-[34px] md:min-h-[46px] flex items-center justify-center md:justify-start text-center md:text-left font-body font-bold text-[11px] sm:text-[13px] md:text-xl leading-none text-[#F5F0EC] uppercase whitespace-nowrap ${
                           index < item.leftTop.length
                             ? "border-2 border-white/80"
                             : "bg-white/7"
