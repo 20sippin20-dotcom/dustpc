@@ -67,12 +67,12 @@ export default function OnlineBooking() {
     >
       <div ref={titleRef} className="opacity-0 mb-12 md:mb-16">
         <p className="font-body text-xs tracking-[0.3em] text-[#FF2B2B] uppercase mb-4">
-          — ONLINE / LANGAME
+          — 04 / БРОНИРОВАНИЕ
         </p>
         <h2 className="font-display text-[11.2vw] sm:text-[11vw] md:text-[9vw] leading-[0.92] text-[#F5F0EC] uppercase whitespace-nowrap">
           ОНЛАЙН
           <br />
-          БРОНИРОВАНИЕ
+          БРОНЬ
         </h2>
       </div>
 
