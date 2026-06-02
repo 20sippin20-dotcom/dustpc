@@ -158,7 +158,7 @@ export default function FinalCTA() {
       {/* Footer */}
       <footer className="absolute bottom-0 left-0 right-0 px-6 md:px-10 py-6 flex items-center justify-between border-t border-white/5">
         <span className="font-display text-sm text-[#F5F0EC]/20 tracking-widest uppercase">
-          DUST © 2024
+          DUST © 2026
         </span>
 
         <div className="flex items-center gap-6">

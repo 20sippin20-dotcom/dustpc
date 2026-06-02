@@ -242,7 +242,7 @@ export default function Hero() {
       {/* Bottom tag line */}
       <div className="absolute bottom-8 right-6 md:right-10 z-20 hidden md:block" aria-hidden="true">
         <p className="font-body text-[10px] tracking-[0.25em] text-[#0A0A0A]/30 uppercase rotate-90 origin-right">
-          Game Club · Est. 2024
+          Game Club · Est. 2026
         </p>
       </div>
 
